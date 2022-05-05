@@ -8,9 +8,9 @@ Veritabanı Sqlite ile hazırlanıp diyagram aşağıda paylaşılmıştır. Sor
 
 Entity Framework, AutoMapper, HtmlAgilityPack, Newtonsoft.Json paketleri kullanılmıştır.
 
-Uygulama görüntüleri aşağıdaki gibidir.
-
-
+Uygulama görüntüleri aşağıdaki gibidir.  
+  
+  
 
 ![alt text](https://github.com/atillarin/WebScraping-wired.com/blob/master/video.gif?raw=true)
 
