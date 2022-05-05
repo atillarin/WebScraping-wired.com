@@ -1,14 +1,14 @@
 # WebScraping-wired.com
 
-wired.com sayfasındaki son yayınlanan makalelerin konu başlıkları ve içerikleri alınmıştır. 
-Alınan veri üzerinden istenilen makale seçilip, konu hakkında sorular hazırlanabilecek bir ekran tasarlanmıştır.
+wired.com sayfasındaki son yayınlanan makalelerin konu başlıkları ve içerikleri alınmıştır.  
+Alınan veri üzerinden istenilen makale seçilip, konu hakkında sorular hazırlanabilecek bir ekran tasarlanmıştır.  
 
-Veri erişim, iş , servis ve sunum projeleri olarak 4 katman tasarlanmış, ayrıca varlık katmanı eklenmiştir.
-Veritabanı Sqlite ile hazırlanıp diyagram aşağıda paylaşılmıştır. Soru sayısı artabileceği için questions tablosu ayrılmıştır.
+Veri erişim, iş , servis ve sunum projeleri olarak 4 katman tasarlanmış, ayrıca varlık katmanı eklenmiştir.  
+Veritabanı Sqlite ile hazırlanıp diyagram aşağıda paylaşılmıştır. Soru sayısı artabileceği için questions tablosu ayrılmıştır.  
 
-Entity Framework, AutoMapper, HtmlAgilityPack, Newtonsoft.Json paketleri kullanılmıştır.
+Entity Framework, AutoMapper, HtmlAgilityPack, Newtonsoft.Json paketleri kullanılmıştır.  
 
-Uygulama görüntüleri aşağıdaki gibidir.  
+Uygulama görüntüleri aşağıdaki gibidir.    
   
   
 
